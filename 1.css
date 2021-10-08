@@ -1,0 +1,23 @@
+body{
+background-color: aliceblue; 
+}
+h1{
+	color: lightslategray;
+}
+p{
+	color: steelblue;
+}
+h2{
+	color: lightseagreen;
+}
+h3{
+	color: steelblue;
+}
+body{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+a{
+	color: mediumpurple ;
+}
